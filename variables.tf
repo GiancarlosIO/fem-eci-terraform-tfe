@@ -8,6 +8,7 @@ variable "github_app_installation_id" {
   type    = number
 }
 
+# make this work!
 variable "github_organization_name" {
   default = "GiancarlosIO"
   type    = string
